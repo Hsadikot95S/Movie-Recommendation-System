@@ -8,8 +8,8 @@ Taking One example movie star-wars the following table lists some movies which a
 
 
 
-|Title                          | Correlation |Total_Ratings   
-|Star Wars (1977)               | 1           |584|
-|Empire Strikes Back, The (1980)| 0.748352607 |368|
-|Return of the Jedi (1983)      | 0.672555856 |507|
-|Raiders of the Lost Ark (1981) | 0.367538345 |420|   
+|Title |Correlation|Total_Ratings|
+|-------------------------------|--------------|----|
+|Star Wars(1977)                |  1           | 584|
+|Empire Strikes Back, The (1980)| 0.748352607  | 368|
+|Return Of the Jedi(1983)   | 0.672555856      | 507|
